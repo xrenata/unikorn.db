@@ -1,7 +1,7 @@
 {
-  "name": "yarrak.db",
+  "name": "unikorn.db",
   "version": "1.1.1",
-  "description": "Json Database",
+  "description": "Json Database 🦄 ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
