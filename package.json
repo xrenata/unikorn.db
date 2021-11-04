@@ -1,0 +1,18 @@
+{
+  "name": "yarrak.db",
+  "version": "1.1.1",
+  "description": "Json Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["JSON"],
+  "author": "renata",
+  "license": "MIT",
+  "dependencies": {
+    "graceful-fs": "^4.2.6",
+    "lodash": "^4.17.21"
+  }
+}
+
+
