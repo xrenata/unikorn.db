@@ -123,3 +123,4 @@ db.type('obj'); // Output: object
 db.type('active'); // Output: boolean
 ```
 
+- sex seven yusuf 😀 
